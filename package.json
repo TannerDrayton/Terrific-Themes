@@ -1,0 +1,21 @@
+{
+  "name": "terrific-themes",
+  "displayName": "Terrific Themes",
+  "description": "A collection of terrific themes",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Terrific Themes",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Terrific Themes-color-theme.json"
+      }
+    ]
+  }
+}
